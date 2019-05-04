@@ -270,15 +270,16 @@
       <workItem from="1556571005217" duration="4444000" />
       <workItem from="1556935841543" duration="1892000" />
       <workItem from="1556938264174" duration="26148000" />
-      <workItem from="1556969737604" duration="6425000" />
+      <workItem from="1556969737604" duration="7021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68518000" />
+    <option name="totallyTimeSpent" value="69114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15567867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -294,8 +295,8 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" sideWeight="0.499723" weight="0.32972974" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3595568" side_tool="true" weight="0.32756758" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.6404432" visible="true" weight="0.32324323" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3601108" side_tool="true" weight="0.32324323" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.6398892" visible="true" weight="0.32324323" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32901832" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
